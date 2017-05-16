@@ -15,20 +15,20 @@ A curated list of awesome magic the gathering resources
 
 * Tools to help build and store your decks.*
 
-[Tapped Out] (http://tappedout.net/)
-[Deckstats] (http://deckstats.net/)
+[Tapped Out](http://tappedout.net)
+[Deckstats](http://deckstats.net)
 
 ## Podcasts
 [Drive to Work](https://itunes.apple.com/us/podcast/magic-gathering-drive-to-work/id580709168?mt=2)
-[Limited Resources](http://lrcast.com/)
-[Brainstorm Brewery](http://brainstormbrewery.com/)
+[Limited Resources](http://lrcast.com)
+[Brainstorm Brewery](http://brainstormbrewery.com)
 
 ## Card Search
-[Scryfall](https://scryfall.com/)
+[Scryfall](https://scryfall.com)
 
 ## EDH/Commander Tools
-[EDH Rec](https://edhrec.com/)
-[Deckminer](https://deckminer.com/)
+[EDH Rec](https://edhrec.com)
+[Deckminer](https://deckminer.com)
 
 ## Developer Resources
 [MTG Json](http://mtgjson.com/)
