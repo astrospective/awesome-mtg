@@ -8,7 +8,7 @@ A curated list of awesome magic the gathering resources
 - [Podcasts](#podcasts)
 - [Card Search](#cardsearch)
 - [EDH/Commander Tools](#edh-commander-tools)
-- [Developer Resources](#developer-resources]
+- [Developer Resources](#developer-resources)
 
 
 ## Deck Building
@@ -24,6 +24,13 @@ A curated list of awesome magic the gathering resources
 ## Card Search
 [Scryfall](https://scryfall.com/)
 
+## EDH/Commander Tools
+[EDH Rec](https://edhrec.com/)
+[Deckminer](https://deckminer.com/)
+
+## Developer Resources
+[MTG Json](http://mtgjson.com/)
+[Scryfall API](https://scryfall.com/docs/api-overview)
 
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
