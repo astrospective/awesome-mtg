@@ -12,8 +12,7 @@ A curated list of awesome magic the gathering resources
 
 
 ## Deck Building
-
-* Tools to help build and store your decks.*
+*Tools to help build and store your decks.*
 
 [Tapped Out](http://tappedout.net)
 [Deckstats](http://deckstats.net)
