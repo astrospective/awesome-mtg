@@ -30,7 +30,7 @@ A curated list of awesome magic the gathering resources
 - [The Mana Drain](http://www.themanadrain.com) Vintage community
 
 ### Videos
-
+- [Tolarian Community College](https://www.tolariancommunitycollege.com/) - The Professor's got fantastic product reviews, funny sketches, the buy a box game, and more.
 ### Streamers
 ## Tools
 ### Deck Building
@@ -40,7 +40,7 @@ A curated list of awesome magic the gathering resources
 - [Deckstats](http://deckstats.net)
 - [Decked Builder](http://www.deckedbuilder.com)
 
-## EDH and Commander Tools
+### EDH and Commander Tools
 - [EDH Rec](https://edhrec.com) - Aggregates and analyzes commander decks to give you the best recommendations for yours. Also has some great articles.
 - [Deckminer](https://deckminer.com) - A web application for managing a staple binder for your commander decks.
 
