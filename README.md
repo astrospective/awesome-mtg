@@ -10,9 +10,9 @@ A curated list of awesome magic the gathering resources
   - [Streamers](#streamers)
 - [Tools](#tools)
   - [Deck Building](#deck-building)
-  - [EDH/Commander](#edh-commander-tools)
+  - [EDH/Commander](#edh-and-commander-tools)
   - [Developer Resources](#developer-resources)
-  - [Card Search](#cardsearch)
+  - [Card Search](#card-search)
   - [Playmats](#playmats)
 
 ## Content
@@ -36,13 +36,9 @@ A curated list of awesome magic the gathering resources
 - [Deckstats](http://deckstats.net)
 - [Decked Builder](http://www.deckedbuilder.com)
 
-## EDH/Commander Tools
+## EDH and Commander Tools
 - [EDH Rec](https://edhrec.com) - Aggregates and analyzes commander decks to give you the best recommendations for yours. Also has some great articles.
 - [Deckminer](https://deckminer.com) - A web application for managing a staple binder for your commander decks.
-
-### Card Search
-- [Scryfall](https://scryfall.com) - A much better gatherer, very advanced search features.
-
 
 
 ### Developer Resources
@@ -50,7 +46,11 @@ A curated list of awesome magic the gathering resources
 - [Scryfall API](https://scryfall.com/docs/api-overview) - REST api for searching for cards from Scryfall.
 
 
+### Card Search
+- [Scryfall](https://scryfall.com) - A much better gatherer, advanced search features.
 
+### Playmats
+- [Inked](https://www.inkedgaming.com) Get a custom playmat, sleeves, or bag. Really nice prints.
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
