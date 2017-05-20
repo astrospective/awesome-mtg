@@ -13,6 +13,7 @@ A curated list of awesome magic the gathering resources
   - [EDH/Commander](#edh-and-commander-tools)
   - [Developer Resources](#developer-resources)
   - [Card Search](#card-search)
+  - [Deck Search](#deck-search)
   - [Playmats](#playmats)
 
 ## Content
@@ -20,6 +21,9 @@ A curated list of awesome magic the gathering resources
 - [Drive to Work](https://itunes.apple.com/us/podcast/magic-gathering-drive-to-work/id580709168?mt=2) - Mark Rosewater records a podcast detailing the history of magic and other topics while driving to his job as Head Designer of Magic at Wizards of the Coast
 - [Limited Resources](http://lrcast.com) - Marshall Sutcliffe and Luis Scott-Vargas discuss limited magic (e.g. playing with a limited set of cards usually from freshly opened boosters).
 - [Brainstorm Brewery](http://brainstormbrewery.com) - MTG Finance, 2 hosts (and 1 semi-permanent guest), and day drinking. 
+- [Commanderin'](http://www.commanderinmtg.com) - The premiere EDHcentric interview show, regular guests include designers, developers, members of the rules committee, and creative writers. Also home of the Watch List. (Warning, occassional blatent anti-phyrexian bias)
+- [Commander's Brew](http://www.commandersbrew.com) - The budget EDH podcast, regularly brews EDH decks under $50 total and generally with cards under $5. Listen to the end for awesome interviews with guests from around the multiverse.
+- [The Commander Zone](https://collected.company/category/the-command-zone/) - Jimmy and Josh cover a wide range of Commander topics and news, host a summit with other podcasters and brew some great decks.
 
 ### Forums
 - [The Source](http://www.mtgthesource.com/forums/forum.php) Legacy focused community
@@ -48,6 +52,10 @@ A curated list of awesome magic the gathering resources
 
 ### Card Search
 - [Scryfall](https://scryfall.com) - A much better gatherer, advanced search features.
+
+### Deck Search
+- [MTG Goldfish](https://www.mtggoldfish.com)
+- [MTG Top 8](http://mtgtop8.com)
 
 ### Playmats
 - [Inked](https://www.inkedgaming.com) Get a custom playmat, sleeves, or bag. Really nice prints.
