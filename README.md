@@ -31,8 +31,11 @@ A curated list of awesome magic the gathering resources
 
 ### Videos
 - [Tolarian Community College](https://www.tolariancommunitycollege.com/) - The Professor's got fantastic product reviews, funny sketches, the buy a box game, and more.
+
 ### Streamers
+
 ## Tools
+
 ### Deck Building
 *Tools to help build and store your decks.*
 
