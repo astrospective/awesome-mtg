@@ -15,6 +15,8 @@ A curated list of awesome magic the gathering resources
   - [Card Search](#card-search)
   - [Deck Search](#deck-search)
   - [Playmats](#playmats)
+ - [Play](#play)
+  - [Play Online](#online)
 
 ## Content
 ### Podcasts
@@ -31,6 +33,7 @@ A curated list of awesome magic the gathering resources
 
 ### Videos
 - [Tolarian Community College](https://www.tolariancommunitycollege.com/) - The Professor's got fantastic product reviews, funny sketches, the buy a box game, and more.
+- [Good Morning Magic](https://www.youtube.com/channel/UCvE8Mza7uRuiYlwiSDyJi9A) - Senior Designer Gavin Verhey talks Magic
 
 ### Streamers
 
@@ -42,6 +45,7 @@ A curated list of awesome magic the gathering resources
 - [Tapped Out](http://tappedout.net)
 - [Deckstats](http://deckstats.net)
 - [Decked Builder](http://www.deckedbuilder.com)
+- [Archidekt](https://archidekt.com)
 
 ### EDH and Commander Tools
 - [EDH Rec](https://edhrec.com) - Aggregates and analyzes commander decks to give you the best recommendations for yours. Also has some great articles.
@@ -62,6 +66,10 @@ A curated list of awesome magic the gathering resources
 
 ### Playmats
 - [Inked](https://www.inkedgaming.com) Get a custom playmat, sleeves, or bag. Really nice prints.
+
+## Play
+### Online
+- [SpellTable](https://www.spelltable.com) Really smooth way to play Commander over webcams.
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
