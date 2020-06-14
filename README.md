@@ -49,8 +49,6 @@ A curated list of awesome magic the gathering resources
 
 ### EDH and Commander Tools
 - [EDH Rec](https://edhrec.com) - Aggregates and analyzes commander decks to give you the best recommendations for yours. Also has some great articles.
-- [Deckminer](https://deckminer.com) - A web application for managing a staple binder for your commander decks.
-
 
 ### Developer Resources
 - [MTG Json](http://mtgjson.com/) - All MTG cards in JSON format, very useful.
