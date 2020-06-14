@@ -15,7 +15,7 @@ A curated list of awesome magic the gathering resources
   - [Card Search](#card-search)
   - [Deck Search](#deck-search)
   - [Playmats](#playmats)
- - [Play](#play)
+- [Play](#play)
   - [Play Online](#online)
 
 ## Content
