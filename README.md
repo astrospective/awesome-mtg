@@ -46,6 +46,7 @@ A curated list of awesome magic the gathering resources
 - [Deckstats](http://deckstats.net)
 - [Decked Builder](http://www.deckedbuilder.com)
 - [Archidekt](https://archidekt.com)
+- [ScrollVault Mana Base Calculator](https://scrollvault.net/tools/manabase/) - Optimal land count calculator using Frank Karsten's hypergeometric probability formulas. Supports Standard, Modern, Pioneer, Legacy, and Commander.
 
 ### EDH and Commander Tools
 - [EDH Rec](https://edhrec.com) - Aggregates and analyzes commander decks to give you the best recommendations for yours. Also has some great articles.
