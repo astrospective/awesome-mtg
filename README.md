@@ -55,6 +55,7 @@ A curated list of awesome magic the gathering resources
 ### Developer Resources
 - [MTG Json](http://mtgjson.com/) - All MTG cards in JSON format, very useful.
 - [Scryfall API](https://scryfall.com/docs/api-overview) - REST api for searching for cards from Scryfall.
+- [SpellBook Finance API](https://spellbook-finance.com/developers) - Free, keyless JSON and RSS API for MTG market data: price movers, all-time-high breaks, set value trends, and sealed product EV rankings.
 
 
 ### Card Search
