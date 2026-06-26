@@ -51,7 +51,7 @@ A curated list of awesome magic the gathering resources
 
 ### EDH and Commander Tools
 - [EDH Rec](https://edhrec.com) - Aggregates and analyzes commander decks to give you the best recommendations for yours. Also has some great articles.
-- [Farseek](https://farseek.ai) - AI Commander deckbuilder — discover upgrades, chat through cuts, and brew from your collection. Live Scryfall search means no hallucinations.
+- [Farseek](https://farseek.ai) - AI Commander deckbuilder — discover upgrades, chat through cuts, and brew from your collection. Grounded in live Scryfall search and oracle text.
 
 ### Developer Resources
 - [MTG Json](http://mtgjson.com/) - All MTG cards in JSON format, very useful.
