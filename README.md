@@ -62,6 +62,7 @@ A curated list of awesome magic the gathering resources
 - [Scryfall](https://scryfall.com) - A much better gatherer, advanced search features.
 - [MoxMythic](https://moxmythic.com) - Card catalog & collection tracker with a browser-based card scanner, finish-aware price history, and a comprehensive artist/illustrator archive.
 - [Binderlyst](https://binderlyst.github.io/) - Free Android app that scans MTG cards in rapid batches and tracks your collection, with folders, condition grades, prices, decks, want lists and set completion.
+- [MTG Full Art Lands](https://mtgfullartlands.com) - A catalog of full-art lands, organized like a collector's art book. 
 
 ### Deck Search
 - [MTG Goldfish](https://www.mtggoldfish.com)
