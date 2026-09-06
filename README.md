@@ -42,12 +42,13 @@ A curated list of awesome magic the gathering resources
 ### Deck Building
 *Tools to help build and store your decks.*
 
-- [Tapped Out](http://tappedout.net)
-- [Deckstats](http://deckstats.net)
-- [Decked Builder](http://www.deckedbuilder.com)
 - [Archidekt](https://archidekt.com)
-- [ScrollVault Mana Base Calculator](https://scrollvault.net/tools/manabase/) - Optimal land count calculator using Frank Karsten's hypergeometric probability formulas. Supports Standard, Modern, Pioneer, Legacy, and Commander.
+- [Decked Builder](http://www.deckedbuilder.com)
+- [Deckstats](http://deckstats.net)
 - [Fetch](https://www.fetch-mtg.com) - Know which Commander deck contains any card. Cross-deck search, version diffs, and shopping lists.
+- [ScrollVault Mana Base Calculator](https://scrollvault.net/tools/manabase/) - Optimal land count calculator using Frank Karsten's hypergeometric probability formulas. Supports Standard, Modern, Pioneer, Legacy, and Commander.
+- [Tapped Out](http://tappedout.net)
+- [The Black Grimoire](https://theblackgrimoire.com) - Free Commander and Brawl deck builder that ranks cards using patterns from nearly 4 million public decklists, with WotC bracket checks and per-card reasons.
 
 ### EDH and Commander Tools
 - [EDH Rec](https://edhrec.com) - Aggregates and analyzes commander decks to give you the best recommendations for yours. Also has some great articles.
