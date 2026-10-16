@@ -13,6 +13,7 @@ A curated list of awesome magic the gathering resources
   - [EDH/Commander](#edh-and-commander-tools)
   - [Developer Resources](#developer-resources)
   - [Card Search](#card-search)
+  - [Sealed Product Value](#sealed-product-value)
   - [Deck Search](#deck-search)
   - [Playmats](#playmats)
 - [Play](#play)
@@ -62,6 +63,12 @@ A curated list of awesome magic the gathering resources
 - [Scryfall](https://scryfall.com) - A much better gatherer, advanced search features.
 - [MoxMythic](https://moxmythic.com) - Card catalog & collection tracker with a browser-based card scanner, finish-aware price history, and a comprehensive artist/illustrator archive.
 - [Binderlyst](https://binderlyst.github.io/) - Free Android app that scans MTG cards in rapid batches and tracks your collection, with folders, condition grades, prices, decks, want lists and set completion.
+
+### Sealed Product Value
+
+[Worth Ripping](https://worthripping.com/) - Compares MTG booster box prices with modeled pull value after selling costs; supports 22 TCGs.
+
+
 
 ### Deck Search
 - [MTG Goldfish](https://www.mtggoldfish.com)
