@@ -48,10 +48,12 @@ A curated list of awesome magic the gathering resources
 - [Archidekt](https://archidekt.com)
 - [ScrollVault Mana Base Calculator](https://scrollvault.net/tools/manabase/) - Optimal land count calculator using Frank Karsten's hypergeometric probability formulas. Supports Standard, Modern, Pioneer, Legacy, and Commander.
 - [Fetch](https://www.fetch-mtg.com) - Know which Commander deck contains any card. Cross-deck search, version diffs, and shopping lists.
+- [Grim.Cards](https://grim.cards) - Upload and test your deck against key meta decks. Built on the Forge Engine, plus additional logic and reporting.
 
 ### EDH and Commander Tools
 - [EDH Rec](https://edhrec.com) - Aggregates and analyzes commander decks to give you the best recommendations for yours. Also has some great articles.
 - [DeckFlow](https://www.deckflow.gg) - Free, no-login Commander/cEDH deck analysis: mana-base castability with Frank Karsten's hypergeometric math, deck comparison, cEDH meta-gap, and Moxfield/Archidekt import.
+- [Farseek](https://farseek.ai) - AI Commander deckbuilder — discover upgrades, chat through cuts, and brew from your collection. Grounded in live Scryfall search and oracle text.
 
 ### Developer Resources
 - [MTG Json](http://mtgjson.com/) - All MTG cards in JSON format, very useful.
@@ -62,6 +64,7 @@ A curated list of awesome magic the gathering resources
 ### Card Search
 - [Scryfall](https://scryfall.com) - A much better gatherer, advanced search features.
 - [MoxMythic](https://moxmythic.com) - Card catalog & collection tracker with a browser-based card scanner, finish-aware price history, and a comprehensive artist/illustrator archive.
+- [Binderlyst](https://binderlyst.github.io/) - Free Android app that scans MTG cards in rapid batches and tracks your collection, with folders, condition grades, prices, decks, want lists and set completion.
 
 ### Deck Search
 - [MTG Goldfish](https://www.mtggoldfish.com)
