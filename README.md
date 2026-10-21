@@ -18,6 +18,7 @@ A curated list of awesome magic the gathering resources
   - [Playmats](#playmats)
 - [Play](#play)
   - [Play Online](#online)
+  - [Local Play](#local-play)
 
 ## Content
 ### Podcasts
@@ -85,6 +86,9 @@ A curated list of awesome magic the gathering resources
 ## Play
 ### Online
 - [SpellTable](https://www.spelltable.com) Really smooth way to play Commander over webcams.
+### Local Play
+- [Spellgs](https://spellgs.com/) - Free directory of US local game stores with weekly Commander nights, proxy and bracket policies, and prerelease events.
+- [Spellpods](https://spellpods.com/) - Post or join a Commander pod at your local game store by bracket and proxy level, no account needed.
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
