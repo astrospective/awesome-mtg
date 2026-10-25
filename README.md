@@ -50,12 +50,14 @@ A curated list of awesome magic the gathering resources
 - [ScrollVault Mana Base Calculator](https://scrollvault.net/tools/manabase/) - Optimal land count calculator using Frank Karsten's hypergeometric probability formulas. Supports Standard, Modern, Pioneer, Legacy, and Commander.
 - [Fetch](https://www.fetch-mtg.com) - Know which Commander deck contains any card. Cross-deck search, version diffs, and shopping lists.
 - [Grim.Cards](https://grim.cards) - Upload and test your deck against key meta decks. Built on the Forge Engine, plus additional logic and reporting.
+- [Mana Grove lands calculator](https://themanagrove.com/tools/lands-calculator) - The land count a Commander deck wants (33 to 42), with the reasoning.
 
 ### EDH and Commander Tools
 - [EDH Rec](https://edhrec.com) - Aggregates and analyzes commander decks to give you the best recommendations for yours. Also has some great articles.
 - [DeckFlow](https://www.deckflow.gg) - Free, no-login Commander/cEDH deck analysis: mana-base castability with Frank Karsten's hypergeometric math, deck comparison, cEDH meta-gap, and Moxfield/Archidekt import.
 - [Farseek](https://farseek.ai) - AI Commander deckbuilder — discover upgrades, chat through cuts, and brew from your collection. Grounded in live Scryfall search and oracle text.
 - [The Black Grimoire](https://theblackgrimoire.com) - Free Commander and Brawl deck builder that ranks cards from public decklists and builds from your own collection and budget.
+- [Mana Grove bracket checker](https://themanagrove.com/tools/bracket-checker) - Paste a decklist to see which bracket (2 to 4) its cards point to, and why.
 
 ### Developer Resources
 - [MTG Json](http://mtgjson.com/) - All MTG cards in JSON format, very useful.
