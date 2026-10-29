@@ -50,6 +50,7 @@ A curated list of awesome magic the gathering resources
 - [ScrollVault Mana Base Calculator](https://scrollvault.net/tools/manabase/) - Optimal land count calculator using Frank Karsten's hypergeometric probability formulas. Supports Standard, Modern, Pioneer, Legacy, and Commander.
 - [Fetch](https://www.fetch-mtg.com) - Know which Commander deck contains any card. Cross-deck search, version diffs, and shopping lists.
 - [Grim.Cards](https://grim.cards) - Upload and test your deck against key meta decks. Built on the Forge Engine, plus additional logic and reporting.
+- [Deck Grimoire](https://deckgrimoire.com/) - Free tool to turn MTG decklists into printable proxy PDFs for casual playtesting, with printing selection and a Commander precon library.
 
 ### EDH and Commander Tools
 - [EDH Rec](https://edhrec.com) - Aggregates and analyzes commander decks to give you the best recommendations for yours. Also has some great articles.
