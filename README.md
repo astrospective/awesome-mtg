@@ -73,6 +73,8 @@ A curated list of awesome magic the gathering resources
 
 [Worth Ripping](https://worthripping.com/) - Compares MTG booster box prices with modeled pull value after selling costs; supports 22 TCGs.
 
+[TableTopMeta EV Calculator](https://www.tabletopmeta.com/ev) - Free daily expected value for 221 MTG booster boxes: every card at its pull odds against the TCGplayer box price, keep-vs-sell after fees, 10,000-box simulations, and price history with CSV.
+
 
 
 ### Deck Search
