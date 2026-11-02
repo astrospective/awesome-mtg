@@ -39,7 +39,6 @@ A curated list of awesome magic the gathering resources
 ### Streamers
 
 ## Tools
-
 ### Deck Building
 *Tools to help build and store your decks.*
 
@@ -50,6 +49,7 @@ A curated list of awesome magic the gathering resources
 - [ScrollVault Mana Base Calculator](https://scrollvault.net/tools/manabase/) - Optimal land count calculator using Frank Karsten's hypergeometric probability formulas. Supports Standard, Modern, Pioneer, Legacy, and Commander.
 - [Fetch](https://www.fetch-mtg.com) - Know which Commander deck contains any card. Cross-deck search, version diffs, and shopping lists.
 - [Grim.Cards](https://grim.cards) - Upload and test your deck against key meta decks. Built on the Forge Engine, plus additional logic and reporting.
+- [ArcaneMetriX](https://arcanemetrix.com/) - A service focused on ease of use & visual aids for learning about your decks. Also supports collection tracking & scheduling/tracking your pod's games.
 
 ### EDH and Commander Tools
 - [EDH Rec](https://edhrec.com) - Aggregates and analyzes commander decks to give you the best recommendations for yours. Also has some great articles.
@@ -61,6 +61,7 @@ A curated list of awesome magic the gathering resources
 - [MTG Json](http://mtgjson.com/) - All MTG cards in JSON format, very useful.
 - [Scryfall API](https://scryfall.com/docs/api-overview) - REST api for searching for cards from Scryfall.
 - [SpellBook Finance API](https://spellbook-finance.com/developers) - Free, keyless JSON and RSS API for MTG market data: price movers, all-time-high breaks, set value trends, and sealed product EV rankings.
+- [ArcaneMetriX](https://arcanemetrix.com/) - Provides a public REST API, OAuth, and MCP server for card and public deck data available for both developer and agent assistant use.
 
 
 ### Card Search
@@ -73,8 +74,6 @@ A curated list of awesome magic the gathering resources
 
 [Worth Ripping](https://worthripping.com/) - Compares MTG booster box prices with modeled pull value after selling costs; supports 22 TCGs.
 
-
-
 ### Deck Search
 - [MTG Goldfish](https://www.mtggoldfish.com)
 - [MTG Top 8](http://mtgtop8.com)
@@ -85,6 +84,10 @@ A curated list of awesome magic the gathering resources
 ## Play
 ### Online
 - [SpellTable](https://www.spelltable.com) Really smooth way to play Commander over webcams.
+
+### Game Tracking
+- [Upkeep: MTG Life Counter](https://arcanemetrix.com/upkeep) - Available from both [Google Play Store](https://play.google.com/store/apps/details?id=com.arcanemetrix.upkeep&pli=1) and [Apple's App Store](https://apps.apple.com/us/app/upkeep-mtg-life-counter/id6815003745), this app is tied into the [ArcaneMetriX](https://arcanemetrix.com/) ecosystem. It is a stand alone life tracker that also tracks game actions and presents stats on decks and social dynamics within your pod.
+
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
