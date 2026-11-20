@@ -50,7 +50,8 @@ A curated list of awesome magic the gathering resources
 - [ScrollVault Mana Base Calculator](https://scrollvault.net/tools/manabase/) - Optimal land count calculator using Frank Karsten's hypergeometric probability formulas. Supports Standard, Modern, Pioneer, Legacy, and Commander.
 - [Fetch](https://www.fetch-mtg.com) - Know which Commander deck contains any card. Cross-deck search, version diffs, and shopping lists.
 - [Grim.Cards](https://grim.cards) - Upload and test your deck against key meta decks. Built on the Forge Engine, plus additional logic and reporting.
-
+- [MTG Cards Buy](https://www.mtgcardsbuy.com) - AI Deck builder, play tester, collection management, deck collaboration, playtest streamer,  buying and selling
+  
 ### EDH and Commander Tools
 - [EDH Rec](https://edhrec.com) - Aggregates and analyzes commander decks to give you the best recommendations for yours. Also has some great articles.
 - [DeckFlow](https://www.deckflow.gg) - Free, no-login Commander/cEDH deck analysis: mana-base castability with Frank Karsten's hypergeometric math, deck comparison, cEDH meta-gap, and Moxfield/Archidekt import.
@@ -68,7 +69,8 @@ A curated list of awesome magic the gathering resources
 - [MoxMythic](https://moxmythic.com) - Card catalog & collection tracker with a browser-based card scanner, finish-aware price history, and a comprehensive artist/illustrator archive.
 - [Binderlyst](https://binderlyst.github.io/) - Free Android app that scans MTG cards in rapid batches and tracks your collection, with folders, condition grades, prices, decks, want lists and set completion.
 - [MTG Full Art Lands](https://mtgfullartlands.com) - A catalog of full-art lands, organized like a collector's art book. 
-
+- [Planeswalkers MTG](https://planeswalkersmtg.com/) - Complete catalog and statistics about all planeswalkers.
+  
 ### Sealed Product Value
 
 [Worth Ripping](https://worthripping.com/) - Compares MTG booster box prices with modeled pull value after selling costs; supports 22 TCGs.
