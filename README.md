@@ -56,6 +56,7 @@ A curated list of awesome magic the gathering resources
 - [DeckFlow](https://www.deckflow.gg) - Free, no-login Commander/cEDH deck analysis: mana-base castability with Frank Karsten's hypergeometric math, deck comparison, cEDH meta-gap, and Moxfield/Archidekt import.
 - [Farseek](https://farseek.ai) - AI Commander deckbuilder — discover upgrades, chat through cuts, and brew from your collection. Grounded in live Scryfall search and oracle text.
 - [The Black Grimoire](https://theblackgrimoire.com) - Free Commander and Brawl deck builder that ranks cards from public decklists and builds from your own collection and budget.
+- [EDHTuner](https://edhtuner.com) - Free Commander deck analyzer: paste a deck or a Moxfield/Archidekt link for cards to cut and add with a reason for each, a bracket check against Wizards' rules, and each swap playtested in simulated games. No account needed.
 
 ### Developer Resources
 - [MTG Json](http://mtgjson.com/) - All MTG cards in JSON format, very useful.
